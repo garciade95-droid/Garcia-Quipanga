@@ -1,4 +1,5 @@
 Algoritmo "Simulação_bancária"
+
 // Descrição  : Criação de um sistema de caixa eletrónico
 // Autores    : Elisa Luanda, Garcia Quipanga, Jorge Quifuando e Zacarias Manuel
 // Data atual  : 14/04/2026
